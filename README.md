@@ -301,6 +301,5 @@ Proyek ini dibuat untuk tujuan akademik. Semua hak cipta pada kode sumber dimili
 ## 🔗 Link Penting
 - **GitHub Repository:** [https://github.com/MIFTAAHULKHR/Tugas-Individu-3_Pengweb](https://github.com/MIFTAAHULKHR/Tugas-Individu-3_Pengweb)
 - **Demo Aplikasi:** [http://localhost:3000](http://localhost:3000) (setelah dijalankan lokal)
-- **Dokumentasi Flask:** [https://flask.palletsprojects.com/](https://flask.palletsprojects.com/)
-- **Dokumentasi React:** [https://reactjs.org/docs](https://reactjs.org/docs)
+
 
