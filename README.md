@@ -299,7 +299,7 @@ Tabel `reviews` memiliki struktur:
 Proyek ini dibuat untuk tujuan akademik. Semua hak cipta pada kode sumber dimiliki oleh pembuat.
 
 ## 🔗 Link Penting
-- **GitHub Repository:** [https://github.com/username/product-review-analyzer](https://github.com/MIFTAAHULKHR/Tugas-Individu-3_Pengweb)
+- **GitHub Repository:** [https://github.com/MIFTAAHULKHR/Tugas-Individu-3_Pengweb](https://github.com/MIFTAAHULKHR/Tugas-Individu-3_Pengweb)
 - **Demo Aplikasi:** [http://localhost:3000](http://localhost:3000) (setelah dijalankan lokal)
 - **Dokumentasi Flask:** [https://flask.palletsprojects.com/](https://flask.palletsprojects.com/)
 - **Dokumentasi React:** [https://reactjs.org/docs](https://reactjs.org/docs)
